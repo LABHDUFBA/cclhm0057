@@ -1,9 +1,25 @@
 ---
 title: "Contatos"
-description: "Onde me encontrar"
+description: "Onde nos encontrar"
 date: 2021-03-31T23:23:21-03:00
 draft: false
 ---
+# Leonardo Nascimento
+
+## E-mail
+  - leofn3@gmail.com
+
+## Twitter
+  - <a href="https://twitter.com/leofn3" target="_blank">@leofn3</a>
+
+## Site pessoal
+  - <a href="https://leofn.com/" target="_blank">leofn.com/</a>
+
+## Github
+  - <a href= "https://github.com/leofn" target="_blank">leofn</a>
+
+
+# Eric Brasil
 
 ## E-mails
   - profericbrasil@unilab.edu.br

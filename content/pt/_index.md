@@ -1,17 +1,17 @@
 ---
-title: CCLHM0057
+title: PPGCS012
 description: Página inicial
-date: 2020-01-26T04:15:05+09:00
+date: 2021-07-27
 draft: false
 landing:
   height: 500
-  image: favicon/logohist.png
+  image: favicon/icon_labhd.png
   title:
-    - CCLHM0057
+    - PPGCS012
   text:
-    - História da América - colonização e resistência
-    - 2020.2 - IHLM/UNILAB
-    - Professor Eric Brasil
+    - Ciência Social Computacional
+    - 2021.2 - PPGCS/UFBA
+    - Professores Leonardo Nascimento e Eric Brasil
   titleColor: 
   textColor:
   spaceBetweenTitleText: 25

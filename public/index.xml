@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CCLHM0057</title>
+    <title>PPGCS012 on CCLHM0057</title>
     <link>https://cclhm0057.netlify.app/</link>
-    <description>Recent content on CCLHM0057</description>
+    <description>Recent content in PPGCS012 on CCLHM0057</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <managingEditor>profericbrasil@unilab.edu.br (Professor Eric Brasil)</managingEditor>
-    <webMaster>profericbrasil@unilab.edu.br (Professor Eric Brasil)</webMaster>
-    <copyright>Conteúdo original criado por Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
+    <copyright>Conteúdo original criado por Leonardo Nascimento e Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://cclhm0057.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
@@ -20,18 +18,18 @@
         <title>Boas-vindas e contato inicial</title>
         <link>https://cclhm0057.netlify.app/blog/noticia1/</link>
         <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/blog/noticia1/</guid>
-        <description>Boas-vindas e contato inicial Gostaria de dar as boas-vindas a todos e todas!
-Iniciamos mais um semestre remoto em meio à pandemia de COVID-19 que assola o mundo e que tem arrasado o Brasil de forma não cruel. Portanto, é fundamental lembrarmos de nos cuidar e cuidar de nossos colegas, física e mentalmente.
-Diante disso, montei o curso CCLHM0057 - História da América: colonialização e resistência para o semestre 2020.2 buscando levar esse contexto sempre em consideração.</description>
+        <description>Boas-vindas e contato inicial Gostaríamos de dar as boas-vindas a todos e todas!
+Iniciamos mais um semestre remoto em meio à pandemia de COVID-19 que assola o mundo e que tem arrasado o Brasil de forma tão cruel. Portanto, é fundamental lembrarmos de nos cuidar e cuidar de nossos colegas, física e mentalmente.
+Diante disso, montamos o curso PPGCS012 - Ciência Social Computacional para o semestre 2021.2 buscando levar esse contexto sempre em consideração.</description>
       </item>
       
       <item>
         <title>Semana 1</title>
         <link>https://cclhm0057.netlify.app/semanal/sem1/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem1/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 1 - América, Américas e o Ensino de História Período 17/05/2021 - 21/05/2021
@@ -49,31 +47,17 @@ Leitura 1 (AA) Essa leitura será discutida no Encontro virtual 1 Data: 17/05/2
         <title>1. Ementa</title>
         <link>https://cclhm0057.netlify.app/programa/1-ementa/</link>
         <pubDate>Wed, 31 Mar 2021 14:21:46 -0300</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/programa/1-ementa/</guid>
-        <description>Ementa Formações sociais e políticas nas Américas antes do século XV: representações, história e historiografia. Invasões, contatos e conquistas nos séculos XV e XVI: história e historiografia. Formação das sociedades coloniais nas Américas: desigualdades e diferenças. Trabalho e tributo colonial: impactos na ordem social das sociedades autóctones. Embates e formas de negociação e resistência: historiografia. Escravidão e resistências nas sociedades coloniais sob domínio britânico, francês e espanhol. Tráfico atlântico e formação das Afro-Américas.</description>
-      </item>
-      
-      <item>
-        <title>Convite para participar do servidor do Discord</title>
-        <link>https://cclhm0057.netlify.app/blog/noticia2/</link>
-        <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/blog/noticia2/</guid>
-        <description>Boa tarde a todos e todas,
-Conforme explicado no vídeo de apresentação, teremos um canal de comunicação direta através de um servidor no Discord.
-Fiz um vídeo tutorial para explicar como se tornar membro. Clique aqui.
-O convite para o servidor é esse: https://discord.gg/6rhZuMjQ
-O convite expira em 6 dias.
-Todos/as que puderem participar serão bem-vindos.
-Abraços</description>
+        <description>Ementa As mudanças nas tecnologias - especificamente a transição da era analógica para a era digital - significa que agora podemos recolher e analisar dados sociais de novas formas. O objetivo da disciplina é definir o escopo, limites e possibilidades da Ciência Social Computacional (CSC). Isso inclui em avaliar os impactos epistemológicos dos métodos digitais e computacionais
+no modo de fazer ciências sociais nas sociedades contemporâneas. Os estudantes serão estimulados a: a) perceber as oportunidades e desafios que a era digital cria para a investigação social; b) avaliar a investigação social moderna a partir das perspectivas tanto da ciência social como da ciência dos dados; c) criar propostas de investigação modernas que misturam</description>
       </item>
       
       <item>
         <title>Semana 2</title>
         <link>https://cclhm0057.netlify.app/semanal/sem2/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem2/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 1 - América, Américas e o Ensino de História Período 24/05/2021 - 28/05/2021
@@ -87,32 +71,17 @@ Textos Obrigatórios:
         <title>2. Metodologia</title>
         <link>https://cclhm0057.netlify.app/programa/2-metodologia/</link>
         <pubDate>Wed, 31 Mar 2021 15:06:16 -0300</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/programa/2-metodologia/</guid>
-        <description>Metodologias de ensino: O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
-Atividades Síncronas (AS): Encontros virtuais:   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às segundas-feiras conforme no cronograma;
-  Os encontros virtuais serão focados em debate de textos da bibliografia do curso. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;</description>
-      </item>
-      
-      <item>
-        <title>Playlist de vídeos e convites para Meet</title>
-        <link>https://cclhm0057.netlify.app/blog/noticia3/</link>
-        <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/blog/noticia3/</guid>
-        <description>Boa tarde a todos e todas,
-Acabei de criar uma playlist no YouTube para organizar todos os vídeos que farão parte de nosso curso.
-Ao longo das próximas semanas adicionarei novos vídeos.
-Clique aqui para acessar.
-Também criei todos os convites para nossos seis encontros virtuais no Google Meet.
-Enviei para os e-mails cadastrados no SIGAA. Se alguém não recebeu os seis convites, por favor, entre em contato comigo para que eu possa inserir na lista de convidados.</description>
+        <description>Metodologias de ensino:  Leituras e apresentações; Vídeos e tutoriais; Atelier de análise de dados com aprendizagem baseada em problemas.  Atividades Síncronas (AS): Encontros virtuais:   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às segundas-feiras conforme no cronograma;
+  Os links para acesso da sala no Google Meet serão enviados com antecedência para os e-mails cadastrados no SIGAA.</description>
       </item>
       
       <item>
         <title>Semana 3</title>
         <link>https://cclhm0057.netlify.app/semanal/sem3/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem3/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 2 -Sociedades autóctones americanas antes do séc. XVI Período 31/05/2021 - 04/06/2021
@@ -126,7 +95,7 @@ Textos Obrigatórios:
         <title>3. Cronograma</title>
         <link>https://cclhm0057.netlify.app/programa/3-cronograma/</link>
         <pubDate>Wed, 31 Mar 2021 23:12:26 -0300</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/programa/3-cronograma/</guid>
         <description>A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 Legenda:
@@ -135,25 +104,10 @@ Legenda:
       </item>
       
       <item>
-        <title>Atividades dessa semana (07/06)</title>
-        <link>https://cclhm0057.netlify.app/blog/noticia4/</link>
-        <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/blog/noticia4/</guid>
-        <description>Bom dia a todos e todas,
-Espero que estejam bem.
-Envio essa mensagem para lembrar que essa semana teremos como atividades uma vídeo-aula e leitura de textos (quer serão discutidos no encontro virtual 3, no dia 21//06).
-Hoje, 07/06, estarei on-line entre 15h e 16h para atendimento no Discord.
-A ideia é tirar dúvidas sobre a vídeo-aula 1, que vcs assitiram na semana passada.
-Abraços,
-Eric</description>
-      </item>
-      
-      <item>
         <title>Semana 4</title>
         <link>https://cclhm0057.netlify.app/semanal/sem4/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem4/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 07/06/2021 - 11/06/2021
@@ -167,7 +121,7 @@ Textos Obrigatórios:
         <title>4. Como usar esse site</title>
         <link>https://cclhm0057.netlify.app/programa/4-site/</link>
         <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/programa/4-site/</guid>
         <description>Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site.
 Construção do site  
@@ -177,22 +131,10 @@ Clique aqui para acessar o repositório no GitHub.</description>
       </item>
       
       <item>
-        <title>Atendimento de Monitoria</title>
-        <link>https://cclhm0057.netlify.app/blog/noticia5/</link>
-        <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
-        <guid>https://cclhm0057.netlify.app/blog/noticia5/</guid>
-        <description>Atendimento de Monitoria A monitora, Zinha Nanque , fará atendimento à turma todas as sextas-feiras, entre 14 e 16h através no whatsapp (ver contato no SIGAA ou Discord).
-Lembrem-se que o atendimento com a monitora é para tirar dúvidas em relação a atividades, textos, tarefas, dúvidas gerais sobre o curso.
-A monitora não tem competência para responder as atividades por vocês.
-É fundamental o respeito no diálogo e contato com a monitora.</description>
-      </item>
-      
-      <item>
         <title>Semana 5</title>
         <link>https://cclhm0057.netlify.app/semanal/sem5/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem5/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 14/06/2021 - 18/06/2021
@@ -207,19 +149,19 @@ Plataforma: Google Meet - link enviado por e-mail</description>
         <title>5. Guia de boas práticas</title>
         <link>https://cclhm0057.netlify.app/programa/5-praticas/</link>
         <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/programa/5-praticas/</guid>
         <description>Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
-Sobre os encontros virtuais Os encontros virtuais serão apenas para debates de textos, portanto, a leitura da bibliografia é obrigatória para participação.
+Sobre os encontros virtuais Os encontros virtuais serão momento para debates de textos e/ou atelier de análise de dados, portanto, a leitura da bibliografia é obrigatória para participação, assim como engajamento prático na análise dos dados.
 Esses encontros síncronos acontecerão via Google Meet e os links serão enviados com antecedência.
-Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link antes do início da aula.</description>
+Não haverá permissão de ingresso na sala virtual após o início do encontro.</description>
       </item>
       
       <item>
         <title>Semana 6</title>
         <link>https://cclhm0057.netlify.app/semanal/sem6/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem6/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 21/06/2021 - 25/06/2021
@@ -234,7 +176,7 @@ Plataforma: Google Meet - link enviado por e-mail</description>
         <title>Semana 7</title>
         <link>https://cclhm0057.netlify.app/semanal/sem7/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem7/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 4 - Formação da sociedade colonials espanhola (XVI-XVIII) Período 28/06/2021 - 01/07/2021
@@ -250,7 +192,7 @@ Plataforma: YouTube Link
         <title>Semana 8</title>
         <link>https://cclhm0057.netlify.app/semanal/sem8/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem8/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 05/07/2021 - 09/07/2021
@@ -265,7 +207,7 @@ Plataforma: Google Meet - link enviado por e-mail.</description>
         <title>Semana 9</title>
         <link>https://cclhm0057.netlify.app/semanal/sem9/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem9/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 12/07/2021 - 16/07/2021
@@ -281,7 +223,7 @@ Plataforma: YouTube Link
         <title>Semana 10</title>
         <link>https://cclhm0057.netlify.app/semanal/sem10/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem10/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 19/07/2021 - 23/07/2021
@@ -295,7 +237,7 @@ CH: 2 horas</description>
         <title>Semana 11</title>
         <link>https://cclhm0057.netlify.app/semanal/sem11/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem11/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 26/07/2021 - 30/07/2021
@@ -310,7 +252,7 @@ Textos Obrigatórios:
         <title>Semana 12</title>
         <link>https://cclhm0057.netlify.app/semanal/sem12/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem12/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 02/08/2021 - 06/08/2021
@@ -325,7 +267,7 @@ Plataforma: Google Meet - link enviado por e-mail.</description>
         <title>Semana 13</title>
         <link>https://cclhm0057.netlify.app/semanal/sem13/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-        <author>profericbrasil@unilab.edu.br (Professor Eric Brasil)</author>
+        
         <guid>https://cclhm0057.netlify.app/semanal/sem13/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 09/08/2021 - 13/08/2021

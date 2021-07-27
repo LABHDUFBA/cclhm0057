@@ -13,24 +13,20 @@ tags:
 
 ## Boas-vindas e contato inicial
 
-Gostaria de dar as boas-vindas a todos e todas!
+Gostaríamos de dar as boas-vindas a todos e todas!
 
-Iniciamos mais um semestre remoto em meio à pandemia de COVID-19 que assola o mundo e que tem arrasado o Brasil de forma não cruel. Portanto, é fundamental lembrarmos de nos cuidar e cuidar de nossos colegas, física e mentalmente.
+Iniciamos mais um semestre remoto em meio à pandemia de COVID-19 que assola o mundo e que tem arrasado o Brasil de forma tão cruel. Portanto, é fundamental lembrarmos de nos cuidar e cuidar de nossos colegas, física e mentalmente.
 
-Diante disso, montei o curso CCLHM0057 - História da América: colonialização e resistência para o semestre 2020.2 buscando levar esse contexto sempre em consideração.
+Diante disso, montamos o curso PPGCS012 - Ciência Social Computacional para o semestre 2021.2 buscando levar esse contexto sempre em consideração.
 
-Pensando em facilitar o acesso aos materiais do curso, criei um site leve e rápido, que pode ser acessado facilmente por celulares, tablets e computadores.
+Pensando em facilitar o acesso aos materiais do curso, criamos um site leve e rápido, que pode ser acessado facilmente por celulares, tablets e computadores.
 
-Clique aqui para acessar o site: [cclhm0057.netlify/app](https://cclhm0057.netlify.app/)
+Na tentativa de conhecer um pouco suas práticas de pesquisa e estudo em ambiente virtual, elaborei um breve formulário que deve ser preenchido entre XXXXXXXXXXXXXXXXXX.
 
-Criei um vídeo de apresentação geral sobre o curso e o próprio site. Vejam o vídeo [clicando aqui](https://youtu.be/3S28KzHiK-g). 
+[Clique aqui para acessar o formulário - link em breve]().
 
-Na tentativa de conhecer um pouco suas práticas de pesquisa e estudo em ambiente virtual, elaborei um breve formulário que deve ser preenchido entre 17 e 23 de maio.
-
-[Clique aqui para acessar o formulário](https://forms.gle/ZkqhVPzzuwagHc9X8).
-
-Desejo a todos/as um bom curso e um semestre tranquilo e com saúde.
+Desejamos a todos e todas um bom curso e um semestre tranquilo e com saúde.
 
 Abraços,
-Eric
+Leonardo e Eric
 

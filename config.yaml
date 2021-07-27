@@ -1,11 +1,11 @@
 baseURL: https://cclhm0057.netlify.app/
-title: "CCLHM0057 História da América: coloniação e resistência, 2020.2"
+title: "PPGCS012 - Ciência Social Computacional - 2021.2 "
 theme: hugo-theme-zdoc
-description: "Curso CCLHM0057-História da América: coloniação e resistência, semestre 2020.2, no âmbito do curso de licencitura em História, IHLM/UNILAB, ministrado por Eric Brasil"
+description: "Curso PPGCS012 - Ciência Social Computacional, no âmbito do programa de pós-graduação em Ciências Sociais da UFBA, ministrado por Leonardo Fernandes (ICTI/UFBA) e Eric Brasil (IHLM/UNILBA) no semestre 2021.2."
 defaultContentLanguage: pt
 defaultContentLanguageInSubdir: no
 hasCJKLanguage: no
-copyright: "Conteúdo original criado por Eric Brasil sob licença <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>"
+copyright: "Conteúdo original criado por Leonardo Nascimento e Eric Brasil sob licença <a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'>Creative Commons Attribution-NonCommercial 4.0 International License</a><br><a rel='license' href='http://creativecommons.org/licenses/by-nc/4.0/'><img alt='Creative Commons License logo' style='border-width:0' src='https://i.creativecommons.org/l/by-nc/4.0/88x31.png' /></a>"
 timeout: 10000
 enableEmoji: yes
 paginate: 13

@@ -16,7 +16,7 @@ Esse site é uma página estática construída com o pacote `blogdown` no `RStud
 
 O repositório, com o código e todos os materiais usados, está disponível no Github e utilizei o [Netlify](https://www.netlify.com/) para fazer a publicação da página on-line.
 
-[Clique aqui](https://github.com/ericbrasiln/cclhm0057) para acessar o repositório no GitHub.
+[Clique aqui](https://github.com/LABHDUFBA/PPGCS012) para acessar o repositório no GitHub.
 
 ## Usando os recursos
 

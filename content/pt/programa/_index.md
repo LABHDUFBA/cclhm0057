@@ -5,30 +5,25 @@ date: 2021-03-31T13:54:05-03:00
 draft: false
 ---
 
-# CCLHM0057 - História da América: colonização e resistência
+# PPGCS012 - Ciência Social Computacional
 
-Professor [_Eric Brasil_](https://ericbrasiln.github.io)
+Professores [_Leonardo Nascimento_](https://leofn.com) e [_Eric Brasil_](https://ericbrasiln.github.io)
 
-no Twitter como <a href="https://twitter.com/ericbrasiln">'@ericbrasiln'</a>
-ou por e-mail : profericbrasil@unilab.edu.br / ericbrasiln@protonmail.com
+**Programa de Pós-graduação em Ciências Sociais, Universidade Federal da Bahia (UFBA)**
 
-**Instituto de Humanidades e Letras, campus dos Malês, Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
-
-**Disciplina obrigatória do curso de [licenciatura em História](http://historia.males.unilab.edu.br/)**
-
-**Semestre**: 2020.2
+**Semestre**: 2021.2
 
 **Carga Horária**:
 
-| Teórica             | Prática como compontente curricular         | Total |
+| Teórica             | Prática         | Total |
 |:--------------------|:------------------|:---------|
-| 60h | 15h | 75h |
+| 34h | 34h | 68h |
 
-**Horário das aulas síncronas** (conforme [cronograma](cronograma)): segundas-feiras, 19h às 21h
+**Horário das aulas síncronas** (conforme [cronograma](cronograma)): quintas-feiras, 14h às 16h
 
 ***
 
-(Quase) Tudo que vc precisa saber sobre a disciplina CCLHM0057 - História da América: colonização e resistência
+(Quase) Tudo que vc precisa saber sobre a disciplina  PPGCS012 - Ciência Social Computacional
 
 Sejam bem-vindos/as ao curso!
 

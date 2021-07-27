@@ -10,7 +10,7 @@ Conjunto de sugestões e indicações de boas práticas para o bom funcionamento
 
 ## Sobre os encontros virtuais
 
-Os encontros virtuais serão apenas para debates de textos, portanto, a leitura da bibliografia é obrigatória para participação.
+Os encontros virtuais serão momento para debates de textos e/ou atelier de análise de dados, portanto, a leitura da bibliografia é obrigatória para participação, assim como engajamento prático na análise dos dados.
 
 Esses encontros síncronos acontecerão via Google Meet e os links serão enviados com antecedência.
 
@@ -22,25 +22,21 @@ Ao entrar na sala virtual, manter o microfone fechado. Todos e todas são encora
 
 ### Leituras
 
-Esse é um curso obrigatório do PPC do curso de licenciatura em História. As leituras indicadas são fundamentais atingir os objetivos da disciplina.
+As leituras indicadas são fundamentais atingir os objetivos da disciplina.
 
 Portanto, é parte das tarefas dos/as discentes ler a bibliografia.
-
-Devido o caráter remoto de nossa disciplina, estou conferindo carga horária para as leituras obrigatórias (diferentemente dos cursos presenciais).
 
 ## Sobre a realização das atividades assíncronas
 
 Ao longo do curso, teremos várias atividades assíncronas. Elas são fundamentais para a composição da carga horária e para que possamos atingir os nossos objetivos.
 
-Além das leituras, teremos vídeo-aulas expositivas (entre 45min e 1h), algumas tarefas (como assistir vídeos complementares, ouvir podcasts, acessar páginas indicadas). Essas atividades contam carga horária, mas não pontuação nem contam como presença.
-
-Teremos três **Atividades Avaliativas** para medir pontuação e aferir presenças. Essas atividades estarão disponíveis no SIGAA e devem ser entregues exclusivamentes pelo SIGAA dentro do prazo previsto.
+Além das leituras, teremos vídeo de apoio e tutoriais, algumas tarefas (como assistir vídeos complementares, ouvir podcasts, acessar páginas indicadas). Essas atividades contam carga horária, mas não pontuação nem contam como presença.
 
 {{< alert theme="warning" >}}Não serão aceitas atividades avaliativas entregues por e-mail{{< /alert >}}
 
 ## Sobre a correção das atividades avaliativas
 
-As atividades avaliativas serão corrigidas e comentadas no SIGAA. Levarei em conta sempre os critérios explicitados na atividade.
+As atividades avaliativas serão corrigidas e comentadas no SIGAA. Levaremos em conta sempre os critérios explicitados na atividade.
 
 É indicado que as atividades entregues no SIGAA estejam nos formatos .doc, .docx,.txt.,.odt ou .md.
 
@@ -52,7 +48,7 @@ As atividades avaliativas serão corrigidas e comentadas no SIGAA. Levarei em co
 
 Como material de apoio, disponibilizarei uma biblioteca das referências utilizadas no curso construída com o programa [Zotero](https://www.zotero.org/).
 
-Indico fortemente que passem a utilizar algum programa pára gerenciar referências bibliográficas. 
+Indicamos fortemente que passem a utilizar algum programa pára gerenciar referências bibliográficas. 
 Para maiores informações sobre o Zotero, veja:
 
 - [Aula do curso Ferramentas digitais](https://ericbrasiln.github.io/ferramentas_digitais_UNILAB/aula3-zotero.html)
@@ -69,7 +65,7 @@ O uso de textos em páginas da WEB também exige a indicação da referência.
 
 ## Contato Humano virtual
 
-Imagino que vcs, assim como eu, estão porfundamente cansados com tudo que a pandemia causou em nossas vidas.
+Imagino que vcs, assim como nós, estão porfundamente cansados com tudo que a pandemia causou em nossas vidas.
 
 Se no ensino remoto não conseguimos estabelecer as conexões humanas da mesma forma, precisamos tentar outras estratégias para nos comunicar.
 
@@ -79,8 +75,6 @@ O [Discord](https://discord.com/) é uma plataforma de comunicação que pode se
 
 Vocês serão convidados para serem membros de um servidor (como um grupo de mensagens) específico da turma. 
 
-Estarei frequentemente on-line para tirar dúvidas e esclarecer tarefas, ouvir sugestões e críticas. O horário fixo de atendimento é segunda-feira, de 16h às 16h.
-
-Essa é a primeira vez que pretendo usar esse recurso com uma turma e torço pra que a experiência seja proveitosa.
+Estaremos frequentemente on-line para tirar dúvidas e esclarecer tarefas, ouvir sugestões e críticas. O horário fixo de atendimento é segunda-feira, de 15h às 16h.
 
 {{< alert theme="info" >}}Não há obrigatoriedade em utilizar o _Discord_.{{< /alert >}}

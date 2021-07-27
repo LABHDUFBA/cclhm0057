@@ -8,17 +8,15 @@ weight: 2
 
 # Metodologias de ensino:
 
-O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividades síncronas e assíncronas organizadas por semana.
+1. Leituras e apresentações; 
+2. Vídeos e tutoriais; 
+3. Atelier de análise de dados com aprendizagem baseada em problemas.
 
 ## Atividades Síncronas (AS):
 
 ### Encontros virtuais:
 
-- Os encontros virtuais terão entre **uma hora e uma hora e trinta minutos de duração**, entre 19h e 20h30min, às segundas-feiras conforme no [cronograma](https://cclhm0057.netlify.app/programa/3-cronograma/);
-
-- Os encontros virtuais serão focados em **debate de textos da bibliografia do curso**. Não serão aulas expositivas, portanto, a leitura dos textos indicados é fundamental para participar do encontro;
-
-- Não haverá cobrança de presença nos encontros virtuais;
+- Os encontros virtuais terão entre **uma hora e uma hora e trinta minutos de duração**, entre 19h e 20h30min, às segundas-feiras conforme no [cronograma]();
   
 - Os links para acesso da sala no _Google Meet_ serão enviados com antecedência para os e-mails cadastrados no SIGAA. 
 
@@ -26,7 +24,7 @@ O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividade
 
 ### Plantões de atendimento via _Discord_:
 
-- Toda segunda-feira, entre 15h e 16h, estarei on-line no servidor do Discord disponível para atender dúvidas, demandas, responder comentários, debater questões pertientes e tentar tornar essa experiência mais humana.
+- Toda segunda-feira, entre 15h e 16h, estaremos on-line no servidor do Discord disponível para atender dúvidas, demandas, responder comentários, debater questões pertientes e tentar tornar essa experiência mais humana.
 
 [Clique aqui](https://youtu.be/5nE__B9w20w) para assistir a um tutorial de como participar de nosso servidor no Discord.
  
@@ -34,9 +32,9 @@ O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividade
 
 ## Atividades Assíncronas (AA):
 
-### Vídeo-aulas e vídeos de apoio:
+### Vídeo de apoio e tutoriais:
 
-- Para cada tema, teremos vídeo-aulas (entre 30 e 45 min) expositivas ou vídeos de apoio disponibilizados no YouTube;
+- Para cada tema, teremos vídeo de apoio e tutoriais disponibilizados no YouTube;
 
 ### Leitura:
 
@@ -44,7 +42,7 @@ O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividade
 
 ### Tarefas:
 
-- As tarefas assíncronas visam promover a reflexão críticas das leituras e/ou das vídeo-aulas da semana.
+- As tarefas assíncronas visam promover ...
 
 ## Recursos Didáticos
 
@@ -52,12 +50,25 @@ O curso está divido em 5 módulos. Cada módulo reúne um conjunto de atividade
 - Google Meet;
 - Site da disciplina;
 - SIGAA;
-- Vídeo-aulas;
+- Vídeos de apoio e tutoriais;
 - Biblioteca de referências no Zotero.
 
 ## Avaliação da aprendizagem
 
-- O/a discente terá três atividades avaliativas que devem ser entregues pelo SIGAA ao longo do curso;
-- Os prazos estão definidos no [cronograma](https://cclhm0057.netlify.app/programa/3-cronograma/) do curso.
-- As atividades 1 e 2 (AT1 & AT2) valem **2,5 pontos** e a atividade 3 (AT3) vale **5,0 pontos**.
-- As frequências serão aferidas através da entrega das atividades avaliativas.
+A  disciplina  privilegia a avaliação processual e formativa, abordando a avaliação da aprendizagem como um “processo contínuo de apreciação e verificação da construção de conhecimento dos alunos, bem como acompanhamento, diagnóstico e melhoria do processo de ensino-aprendizagem”. (REGPG Cap. VI, Art. 106 – UFBA, 2014). 
+
+Adotar-se-á formas e instrumentos diversificados de avaliação da aprendizagem que reflitam o acompanhamento do processo de construção de conhecimentos nas suas dimensões conceituais, procedimentais e atitudinais pelo estudante, com estreita relação de coerência com os objetivos de aprendizagem e com a/s metodologia/s de ensino-aprendizagem adotadas.
+
+## IMPORTANTE (LEIA ANTES DE PROSSEGUIR)
+
+1 - A disciplina possui carga horária de aulas práticas sob forma de atelier de análise de dados; 
+2 - Estudantes devem ter disponibilidade para aprender as linguagens de programação Python ou R; 
+3 - Estudantes  com  letramento  digital  mínimo  ou  nulo  não  devem  fazer  a  disciplina  (o  docente  poderá  enviar material preparatório para, em seguida, o estudante fazer o curso); 
+4 - No formato remoto, os estudantes precisam ter computador conectado à web para poderem fazer as atividades; 
+5 - Por último e mais importante: 
+>De  acordo  com  o  Art.  112  do Regulamento  de  Ensino  de  Graduação  e Pós-Graduação será considerado reprovado, em cada componente curricular, o aluno que:
+>I - deixar de cumprir a frequência mínima de setenta e cinco por cento (75%) às aulas e às atividades;
+>II - não obtiver nota final igual ou superior a cinco (5,0) ou;  
+>III - não obtiver aproveitamento nos componentes curriculares cujos resultados não forem expressos por nota.
+
+Isto significa que, como em toda e qualquer disciplina, você poderá ser REPROVADA(O) caso não produza um trabalho  final  com  riqueza  acadêmica.  “Riqueza”,  do  ponto  de  vista  acadêmico,  consiste  em  a)  uma  escrita ortograficamente correta; b) teoricamente fundamentada: isto é condizente com autores, conceitos e a problemática do debate que se propõe analisar; e c) com clareza e consistência do ponto de vista formal.
