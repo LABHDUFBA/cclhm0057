@@ -2,6 +2,7 @@
 
 # PPGCS012 - Ciência Social Computacional - 2021.2 (PPGCS/UFBA)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6cef046-2c3a-4899-ab31-58fc5ffcede6/deploy-status)](https://app.netlify.com/sites/ppgcs012/deploys)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Site para o curso **PPGCS012 - Ciência Social Computacional**,no âmbito do programa de pósgraduação em Ciências Sociais da UFBA.
