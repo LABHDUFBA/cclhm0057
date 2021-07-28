@@ -12,13 +12,11 @@ weight: 2
 2. Vídeos e tutoriais; 
 3. Atelier de análise de dados com aprendizagem baseada em problemas.
 
-## Atividades Síncronas (AS):
+## Encontros síncronos(ES):
 
-### Encontros virtuais:
-
-- Os encontros virtuais terão entre **uma hora e uma hora e trinta minutos de duração**, entre 19h e 20h30min, às segundas-feiras conforme no [cronograma]();
+- Os encontros síncronos terão duração de **duas horas**, pontualmente às 14h, às quintas-feiras conforme no [cronograma]();
   
-- Os links para acesso da sala no _Google Meet_ serão enviados com antecedência para os e-mails cadastrados no SIGAA. 
+- Haverá um link único durante todo o semestre para o acesso à sala. Ele estará postado com antecedência no SIGAA. Lembre-se que o link é restrito aos participantes da disciplina.  
 
 {{< alert theme="info" >}} Não haverá permissão de ingresso na sala virtual após o início do encontro. Os/as discentes devem aceitar o convite para participar através do link antes do início da aula. {{< /alert >}}
 
@@ -38,22 +36,21 @@ weight: 2
 
 ### Leitura:
 
-- Cada semana possui um conjunto de leituras a serem realizadas.
+- Cada semana possui um conjunto de leituras que devem ser realizadas.
 
 ### Tarefas:
 
-- As tarefas assíncronas visam promover ...
+- As tarefas assíncronas visam promover e expandir as habilidades que vamos aprender em sala.
 
-## Recursos Didáticos
+### Recursos Didáticos
 
 - Discord;
-- Google Meet;
 - Site da disciplina;
 - SIGAA;
 - Vídeos de apoio e tutoriais;
 - Biblioteca de referências no Zotero.
 
-## Avaliação da aprendizagem
+### Avaliação da aprendizagem
 
 A  disciplina  privilegia a avaliação processual e formativa, abordando a avaliação da aprendizagem como um “processo contínuo de apreciação e verificação da construção de conhecimento dos alunos, bem como acompanhamento, diagnóstico e melhoria do processo de ensino-aprendizagem”. (REGPG Cap. VI, Art. 106 – UFBA, 2014). 
 
@@ -65,10 +62,11 @@ Adotar-se-á formas e instrumentos diversificados de avaliação da aprendizagem
 2 - Estudantes devem ter disponibilidade para aprender as linguagens de programação Python ou R; 
 3 - Estudantes  com  letramento  digital  mínimo  ou  nulo  não  devem  fazer  a  disciplina  (o  docente  poderá  enviar material preparatório para, em seguida, o estudante fazer o curso); 
 4 - No formato remoto, os estudantes precisam ter computador conectado à web para poderem fazer as atividades; 
-5 - Por último e mais importante: 
+5 - **Por último e mais importante:** 
+
 >De  acordo  com  o  Art.  112  do Regulamento  de  Ensino  de  Graduação  e Pós-Graduação será considerado reprovado, em cada componente curricular, o aluno que:
 >I - deixar de cumprir a frequência mínima de setenta e cinco por cento (75%) às aulas e às atividades;
 >II - não obtiver nota final igual ou superior a cinco (5,0) ou;  
 >III - não obtiver aproveitamento nos componentes curriculares cujos resultados não forem expressos por nota.
 
-Isto significa que, como em toda e qualquer disciplina, você poderá ser REPROVADA(O) caso não produza um trabalho  final  com  riqueza  acadêmica.  “Riqueza”,  do  ponto  de  vista  acadêmico,  consiste  em  a)  uma  escrita ortograficamente correta; b) teoricamente fundamentada: isto é condizente com autores, conceitos e a problemática do debate que se propõe analisar; e c) com clareza e consistência do ponto de vista formal.
+**Isto significa que, como em toda e qualquer disciplina, você poderá ser REPROVADA(O) caso não produza um trabalho  final  com  riqueza  acadêmica.  “Riqueza”,  do  ponto  de  vista  acadêmico,  consiste  em  a)  uma  escrita ortograficamente correta; b) teoricamente fundamentada: isto é condizente com autores, conceitos e a problemática do debate que se propõe analisar; e c) com clareza e consistência do ponto de vista formal.**

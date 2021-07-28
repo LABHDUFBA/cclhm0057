@@ -8,10 +8,7 @@ weight: 1
 
 ## Ementa
 
-As mudanças nas tecnologias - especificamente a transição da era analógica para a era digital - significa que agora podemos recolher e analisar dados sociais de novas formas. O objetivo da disciplina é definir o escopo, limites e possibilidades da Ciência Social Computacional (CSC). Isso inclui em avaliar os impactos epistemológicos dos métodos digitais e computacionais 
-no modo de fazer ciências sociais nas sociedades contemporâneas. Os estudantes  serão estimulados a:   a)  perceber  as oportunidades e desafios que a era digital cria para a investigação social; b) avaliar a investigação social moderna a partir das perspectivas tanto da ciência social como da ciência dos dados; c) criar propostas de investigação modernas que misturam 
-ideias das ciências sociais e da ciência de dados; d) praticar as técnicas necessárias para realmente conduzir a sua proposta de  investigação  através  de  métodos  digitais  e/ou  computacionais.  A  disciplina  depende  que  o  estudante  domine  os fundamentos da linguagem de computação R e/ou Python que serão utilizadas para importar, arrumar, transformar, visualizar, 
-modelar, comunicar e automatizar  bases de dados sobre a sociedade. O curso deverá ser útil para cientistas sociais que queiram fazer mais ciência de dados e cientistas de dados que queiram fazer mais ciências sociais. 
+As mudanças nas tecnologias - especificamente a transição da era analógica para a era digital - significa que agora podemos recolher e analisar dados sociais de novas formas. O objetivo da disciplina é definir o escopo, limites e possibilidades da Ciência Social Computacional (CSC). Isso inclui em avaliar os impactos epistemológicos dos métodos digitais e computacionais no modo de fazer ciências sociais nas sociedades contemporâneas. Os estudantes serão estimulados a:  a) perceber as oportunidades e desafios que a era digital cria para a investigação social; b) avaliar a investigação social moderna a partir das perspectivas tanto da ciência social como da ciência dos dados; c) criar propostas de investigação modernas que misturam ideias das ciências sociais e da ciência de dados; d) praticar as técnicas necessárias para realmente conduzir a sua proposta de investigação através de métodos digitais e/ou computacionais. A disciplina depende que o estudante domine os fundamentos da linguagem de computação R e/ou Python que serão utilizadas para importar, arrumar, transformar, visualizar, modelar, comunicar e automatizar bases de dados sobre a sociedade. O curso deverá ser útil para cientistas sociais que queiram fazer mais ciência de dados e cientistas de dados que queiram fazer mais ciências sociais. 
 
 ## Objetivo
 
@@ -22,10 +19,10 @@ modelar, comunicar e automatizar  bases de dados sobre a sociedade. O curso deve
 ## Conteúdo Programático
 
 - Aula 1 – Introdução a CSC 
-- Aula 2 – Métodos Digitais e dados digitais 
-- Aula 3 – Introdução a linguagem R/Python de programação 
+- Aula 2 – Problemas éticos da pesquisa em meios digitais 
+- Aula 3 – Métodos Digitais e dados digitais  
 - Aula 4 – Introdução a linguagem R/Python de programação 
-- Aula 5 – Por que R/Python para as ciências sociais? 
+- Aula 5 – Introdução a linguagem R/Python de programação  
 - Aula 6 – Obtendo e manipulando dados I 
 - Aula 7 – Obtendo e manipulando dados II  
 - Aula 8 – Web scraping em R/Python 

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PPGCS012 on CCLHM0057</title>
-    <link>https://cclhm0057.netlify.app/</link>
-    <description>Recent content in PPGCS012 on CCLHM0057</description>
+    <title>PPGCS012</title>
+    <link>https://ppgcs012.netlify.app/</link>
+    <description>Recent content on PPGCS012</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
     <copyright>Conteúdo original criado por Leonardo Nascimento e Eric Brasil sob licença &lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;Creative Commons Attribution-NonCommercial 4.0 International License&lt;/a&gt;&lt;br&gt;&lt;a rel=&#39;license&#39; href=&#39;http://creativecommons.org/licenses/by-nc/4.0/&#39;&gt;&lt;img alt=&#39;Creative Commons License logo&#39; style=&#39;border-width:0&#39; src=&#39;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#39; /&gt;&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 27 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://cclhm0057.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://ppgcs012.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Boas-vindas e contato inicial</title>
-        <link>https://cclhm0057.netlify.app/blog/noticia1/</link>
+        <link>https://ppgcs012.netlify.app/blog/noticia1/</link>
         <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/blog/noticia1/</guid>
+        <guid>https://ppgcs012.netlify.app/blog/noticia1/</guid>
         <description>Boas-vindas e contato inicial Gostaríamos de dar as boas-vindas a todos e todas!
 Iniciamos mais um semestre remoto em meio à pandemia de COVID-19 que assola o mundo e que tem arrasado o Brasil de forma tão cruel. Portanto, é fundamental lembrarmos de nos cuidar e cuidar de nossos colegas, física e mentalmente.
 Diante disso, montamos o curso PPGCS012 - Ciência Social Computacional para o semestre 2021.2 buscando levar esse contexto sempre em consideração.</description>
@@ -27,10 +27,10 @@ Diante disso, montamos o curso PPGCS012 - Ciência Social Computacional para o s
       
       <item>
         <title>Semana 1</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem1/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem1/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem1/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem1/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 1 - América, Américas e o Ensino de História Período 17/05/2021 - 21/05/2021
 Tarefa 01 (AA) Tema: Assistir vídeo de apresentação e preencher o Formulário
@@ -45,20 +45,19 @@ Leitura 1 (AA) Essa leitura será discutida no Encontro virtual 1 Data: 17/05/2
       
       <item>
         <title>1. Ementa</title>
-        <link>https://cclhm0057.netlify.app/programa/1-ementa/</link>
+        <link>https://ppgcs012.netlify.app/programa/1-ementa/</link>
         <pubDate>Wed, 31 Mar 2021 14:21:46 -0300</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/programa/1-ementa/</guid>
-        <description>Ementa As mudanças nas tecnologias - especificamente a transição da era analógica para a era digital - significa que agora podemos recolher e analisar dados sociais de novas formas. O objetivo da disciplina é definir o escopo, limites e possibilidades da Ciência Social Computacional (CSC). Isso inclui em avaliar os impactos epistemológicos dos métodos digitais e computacionais
-no modo de fazer ciências sociais nas sociedades contemporâneas. Os estudantes serão estimulados a: a) perceber as oportunidades e desafios que a era digital cria para a investigação social; b) avaliar a investigação social moderna a partir das perspectivas tanto da ciência social como da ciência dos dados; c) criar propostas de investigação modernas que misturam</description>
+        <guid>https://ppgcs012.netlify.app/programa/1-ementa/</guid>
+        <description>Ementa As mudanças nas tecnologias - especificamente a transição da era analógica para a era digital - significa que agora podemos recolher e analisar dados sociais de novas formas. O objetivo da disciplina é definir o escopo, limites e possibilidades da Ciência Social Computacional (CSC). Isso inclui em avaliar os impactos epistemológicos dos métodos digitais e computacionais no modo de fazer ciências sociais nas sociedades contemporâneas. Os estudantes serão estimulados a: a) perceber as oportunidades e desafios que a era digital cria para a investigação social; b) avaliar a investigação social moderna a partir das perspectivas tanto da ciência social como da ciência dos dados; c) criar propostas de investigação modernas que misturam ideias das ciências sociais e da ciência de dados; d) praticar as técnicas necessárias para realmente conduzir a sua proposta de investigação através de métodos digitais e/ou computacionais.</description>
       </item>
       
       <item>
         <title>Semana 2</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem2/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem2/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem2/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem2/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 1 - América, Américas e o Ensino de História Período 24/05/2021 - 28/05/2021
 Leitura 2 (AA) Essa leitura será abordada na Vídeo-aula 1 Data: 24/05/2021 - 28/05/2021
@@ -69,20 +68,20 @@ Textos Obrigatórios:
       
       <item>
         <title>2. Metodologia</title>
-        <link>https://cclhm0057.netlify.app/programa/2-metodologia/</link>
+        <link>https://ppgcs012.netlify.app/programa/2-metodologia/</link>
         <pubDate>Wed, 31 Mar 2021 15:06:16 -0300</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/programa/2-metodologia/</guid>
-        <description>Metodologias de ensino:  Leituras e apresentações; Vídeos e tutoriais; Atelier de análise de dados com aprendizagem baseada em problemas.  Atividades Síncronas (AS): Encontros virtuais:   Os encontros virtuais terão entre uma hora e uma hora e trinta minutos de duração, entre 19h e 20h30min, às segundas-feiras conforme no cronograma;
-  Os links para acesso da sala no Google Meet serão enviados com antecedência para os e-mails cadastrados no SIGAA.</description>
+        <guid>https://ppgcs012.netlify.app/programa/2-metodologia/</guid>
+        <description>Metodologias de ensino:  Leituras e apresentações; Vídeos e tutoriais; Atelier de análise de dados com aprendizagem baseada em problemas.  Encontros síncronos(ES):   Os encontros síncronos terão duração de duas horas, pontualmente às 14h, às quintas-feiras conforme no cronograma;
+  Haverá um link único durante todo o semestre para o acesso à sala. Ele estará postado com antecedência no SIGAA. Lembre-se que o link é restrito aos participantes da disciplina.</description>
       </item>
       
       <item>
         <title>Semana 3</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem3/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem3/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem3/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem3/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 2 -Sociedades autóctones americanas antes do séc. XVI Período 31/05/2021 - 04/06/2021
 Leitura 3 (AA) Essa leitura será discutida no Encontro virtual 2 Data: 31/05/2021 - 04/06/2021
@@ -93,10 +92,10 @@ Textos Obrigatórios:
       
       <item>
         <title>3. Cronograma</title>
-        <link>https://cclhm0057.netlify.app/programa/3-cronograma/</link>
+        <link>https://ppgcs012.netlify.app/programa/3-cronograma/</link>
         <pubDate>Wed, 31 Mar 2021 23:12:26 -0300</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/programa/3-cronograma/</guid>
+        <guid>https://ppgcs012.netlify.app/programa/3-cronograma/</guid>
         <description>A divisão dos dias, atividades e temas para vcs organizarem suas vidas.
 Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona  Semana 1 Período: 17/05/2021 - 21/05/2021 CH = 3h
@@ -105,10 +104,10 @@ Legenda:
       
       <item>
         <title>Semana 4</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem4/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem4/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem4/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem4/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 07/06/2021 - 11/06/2021
 Leitura 4 (AA) Essa leitura será discutida no Encontro virtual 3 Data: 07/06/2021 - 11/06/2021
@@ -119,10 +118,10 @@ Textos Obrigatórios:
       
       <item>
         <title>4. Como usar esse site</title>
-        <link>https://cclhm0057.netlify.app/programa/4-site/</link>
+        <link>https://ppgcs012.netlify.app/programa/4-site/</link>
         <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/programa/4-site/</guid>
+        <guid>https://ppgcs012.netlify.app/programa/4-site/</guid>
         <description>Explicações e dicas técnicas e acadêmicas sobre os usos e limites desse site.
 Construção do site  
 Esse site é uma página estática construída com o pacote blogdown no RStudio que utiliza Hugo e o tema zDoc.
@@ -132,10 +131,10 @@ Clique aqui para acessar o repositório no GitHub.</description>
       
       <item>
         <title>Semana 5</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem5/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem5/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem5/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem5/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 14/06/2021 - 18/06/2021
 Plantão de atendimento Data: Segunda-feira, 14/06/2021, 15h-16h no Discord
@@ -147,10 +146,10 @@ Plataforma: Google Meet - link enviado por e-mail</description>
       
       <item>
         <title>5. Guia de boas práticas</title>
-        <link>https://cclhm0057.netlify.app/programa/5-praticas/</link>
+        <link>https://ppgcs012.netlify.app/programa/5-praticas/</link>
         <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/programa/5-praticas/</guid>
+        <guid>https://ppgcs012.netlify.app/programa/5-praticas/</guid>
         <description>Conjunto de sugestões e indicações de boas práticas para o bom funcionamento do curso ao longo do semestre 2020.2.
 Sobre os encontros virtuais Os encontros virtuais serão momento para debates de textos e/ou atelier de análise de dados, portanto, a leitura da bibliografia é obrigatória para participação, assim como engajamento prático na análise dos dados.
 Esses encontros síncronos acontecerão via Google Meet e os links serão enviados com antecedência.
@@ -159,10 +158,10 @@ Não haverá permissão de ingresso na sala virtual após o início do encontro.
       
       <item>
         <title>Semana 6</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem6/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem6/</link>
         <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem6/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem6/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 3 - Conquistas e Resistências (XVI-XVII) Período 21/06/2021 - 25/06/2021
 Plantão de atendimento Data: Segunda-feira, 21/06/2021, 15h-16h no Discord
@@ -174,10 +173,10 @@ Plataforma: Google Meet - link enviado por e-mail</description>
       
       <item>
         <title>Semana 7</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem7/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem7/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem7/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem7/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 4 - Formação da sociedade colonials espanhola (XVI-XVIII) Período 28/06/2021 - 01/07/2021
 Plantão de atendimento Data: Segunda-feira, 28/06/2021, 15h-16h no Discord
@@ -190,10 +189,10 @@ Plataforma: YouTube Link
       
       <item>
         <title>Semana 8</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem8/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem8/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem8/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem8/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 05/07/2021 - 09/07/2021
 Plantão de atendimento Data: Segunda-feira, 09/07/2021, 15h-16h no Discord
@@ -205,10 +204,10 @@ Plataforma: Google Meet - link enviado por e-mail.</description>
       
       <item>
         <title>Semana 9</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem9/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem9/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem9/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem9/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 12/07/2021 - 16/07/2021
 Plantão de atendimento Data: Segunda-feira, 12/07/2021, 15h-16h no Discord
@@ -221,10 +220,10 @@ Plataforma: YouTube Link
       
       <item>
         <title>Semana 10</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem10/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem10/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem10/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem10/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 19/07/2021 - 23/07/2021
 Plantão de atendimento Data: Segunda-feira, 19/07/2021, 15h-16h no Discord
@@ -235,10 +234,10 @@ CH: 2 horas</description>
       
       <item>
         <title>Semana 11</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem11/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem11/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem11/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem11/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 26/07/2021 - 30/07/2021
 Plantão de atendimento Data: Segunda-feira, 26/07/2021, 15h-16h no Discord
@@ -250,10 +249,10 @@ Textos Obrigatórios:
       
       <item>
         <title>Semana 12</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem12/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem12/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem12/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem12/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 02/08/2021 - 06/08/2021
 Plantão de atendimento Data: Segunda-feira, 02/08/2021, 15h-16h no Discord
@@ -265,10 +264,10 @@ Plataforma: Google Meet - link enviado por e-mail.</description>
       
       <item>
         <title>Semana 13</title>
-        <link>https://cclhm0057.netlify.app/semanal/sem13/</link>
+        <link>https://ppgcs012.netlify.app/semanal/sem13/</link>
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://cclhm0057.netlify.app/semanal/sem13/</guid>
+        <guid>https://ppgcs012.netlify.app/semanal/sem13/</guid>
         <description>Legenda:
  AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII) Período 09/08/2021 - 13/08/2021
 Plantão de atendimento Data: Segunda-feira, 09/08/2021, 15h-16h no Discord
