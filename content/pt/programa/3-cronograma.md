@@ -1,6 +1,6 @@
 ---
 title: "3. Cronograma"
-date: 2021-03-31T23:12:26-03:00
+date: Sys.Date()
 description: "A divisão dos dias, atividades e temas"
 draft: false
 weight: 3

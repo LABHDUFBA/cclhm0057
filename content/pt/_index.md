@@ -1,10 +1,10 @@
 ---
 title: PPGCS012
 description: Página inicial
-date: 2021-07-27
+date: Sys.Date()
 draft: false
 landing:
-  height: 500
+  height: 400
   image: favicon/icon_labhd.png
   title:
     - PPGCS012
