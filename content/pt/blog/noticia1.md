@@ -1,6 +1,6 @@
 ---
 title: "Boas-vindas e contato inicial"
-date: 2021-05-17
+date: Sys.Date()
 draft: false
 weight: 1
 enableToc: true
