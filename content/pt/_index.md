@@ -17,9 +17,9 @@ landing:
   spaceBetweenTitleText: 25
   buttons:
     - link: programa
-      text: Conheça o programa
+      text: Programa da disciplina
       color: primary
     - link: contato
-      text: Entre em contato
+      text: Contato
       color: secundary
 ---
