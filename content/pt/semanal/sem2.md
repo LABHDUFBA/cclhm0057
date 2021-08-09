@@ -1,7 +1,7 @@
 ---
 title: "Semana 2"
 date: Sys.Date()
-description: "Período: 16 - 20/08
+description: "Período: 16 - 20/08"
 draft: false
 weight: 2
 ---
