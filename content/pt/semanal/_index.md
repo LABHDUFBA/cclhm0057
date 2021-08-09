@@ -1,8 +1,8 @@
 ---
 title: "Atividades Semanais"
-description: "Todas as tarefas, leituras, encontros dividas por semanas"
-date: 2021-04-27
+description: "Todas as tarefas, leituras, encontros, oficinas dividas por semanas"
+date: Sys.Date()
 draft: false
 ---
 
-Nessa página vcs encontrarão todas as tarefas, leituras, encontros virtuais organizados semanalmente. Assim, poderão se organizar com antecedência e visualizar de forma mais completa o curso.
+Nessa página vcs encontrarão todas as atividades do semestre organizadas semanalmente. Assim, poderão se organizar com antecedência e visualizar de forma mais completa o curso.

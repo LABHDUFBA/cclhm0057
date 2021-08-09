@@ -1,7 +1,7 @@
 ---
 title: "Semana 5"
-date: 2021-05-07
-description: "Período: 14/06/2021 - 18/06/2021"
+date: Sys.Date()
+description: "Período: 06 - 10/09"
 draft: false
 weight: 5
 ---
@@ -13,43 +13,30 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo 3 - Conquistas e Resistências (XVI-XVII)
-
 ## Período
 
-14/06/2021 - 18/06/2021
+06 - 10/09
 
-## Plantão de atendimento
+### Encontro Síncrono 4
 
-**Data**: Segunda-feira, 14/06/2021, 15h-16h no *Discord*
+*Tema*: Introdução à linguagem de programação R
 
-## Encontro Virtual 2 (AS)
+*Tipo*: Live coding
 
-**Tema**: Debate de textos - As várias visões da “conquista”.
-
-{{< notice info "Leitura" >}}
-Para essa aula é preciso ler a [Leitura 3](https://cclhm0057.netlify.app/semanal/sem3/#leitura-3-aa)
-{{< /notice >}}
-
-***
-
-**Data:**  14/06/2021
+**Data:** 09/09
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` - link enviado por e-mail
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
-| Objetivos           | Conteúdos         |
-|:--------------------|:------------------|
-| Caracterizar as principais correntes historiográficas acerca da conquista europeia sobre as sociedades mexicas e incas (XVI) | Historiografia sobre a conquista |
-| Analisar historicamente as relações entre invasores europeus e as variadas sociedades americanas na primeira metade do século XVI | O processo de conquista de México-Tenotchitlán |
+### Atividade  assíncrona 1
 
-## Atividade Avaliativa 1 (AA)
+*Tipo*: Exercícios
 
-**Tema**: Análise de fontes.
+**CH**: 2 horas
 
-**Data:**  14/06/2021 - 05/07/2021
+*Link*: [em breve]
 
-**CH**: 4 horas
+### Plantão de atendimento
 
-**Plataforma**: `SIGAA` [Link](atividades/AT1.pdf)
+**Data**: Segunda-feira, 06/09/2021, 15h-16h no *Discord*

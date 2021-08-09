@@ -1,9 +1,9 @@
 ---
 title: "Semana 13"
 date: Sys.Date()
-description: "Período: 01 - 05/11"
+description: "Período: 08 - 12/11"
 draft: false
-weight: 13
+weight: 14
 ---
 
 {{< boxmd >}}
@@ -15,15 +15,15 @@ Legenda:
 
 ## Período
 
-01 - 05/11
+08 - 12/11
 
-### Encontro Síncrono 12
+### Encontro Síncrono 13
 
-*Tema*: Extração e Análise de dados I: Raspar e organizar
+*Tema*: Extração e Análise de dados II: Análise e visualizar
 
 *Tipo*: Oficina 
 
-**Data:** 04/11
+**Data:** 11/11
 
 **CH**: 2 horas
 

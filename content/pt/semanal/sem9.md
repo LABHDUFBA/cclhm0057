@@ -1,7 +1,7 @@
 ---
 title: "Semana 9"
-date: 2021-05-10
-description: "Período: 12/07/2021 - 16/07/2021"
+date: Sys-Date()
+description: "Período: 04 - 08/10"
 draft: false
 weight: 9
 ---
@@ -13,50 +13,28 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)
-
 ## Período
 
-12/07/2021 - 16/07/2021
+04 - 08/10
 
-## Plantão de atendimento
+### Encontro Síncrono 8
 
-**Data**: Segunda-feira, 12/07/2021, 15h-16h no *Discord*
+*Tema*: Manipulando dados I: R e Tidyverse
 
-## Vídeo-aula 4 (AA)
+*Tipo*: Live coding 
 
-{{< notice info "Leitura" >}}
-Essa vídeo-aula abordará a [Leitura 7](https://cclhm0057.netlify.app/semanal/sem8/#leitura-7-aa).
-{{< /notice >}}
+**Data:** 07/10
 
-***
+**CH**: 2 horas
 
-**Tema**: A escravidão no México, Região Andina e Região Platina
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
-**Data:**  12/07/2021 - 16/07/2021
+### Atividade Assíncrona 4
 
-**CH**: 1 hora
+*Tipo*: Exercícios
 
-**Plataforma**: `YouTube` [Link](https://youtu.be/lnyPIwc_KKo)
+**CH**: 2 horas
 
-| Objetivos           | Conteúdos         |
-|:--------------------|:------------------|
-| Compreender as variadas formas de escravidão e as estratégias de resistência de escravizados na região do México, do Peru e do Rio da Prata. | Escravidão Africana na Nova Espanha, nos Andes e no Vice-reino da Prata entre os séculos XVI e XVIII. |
+### Plantão de atendimento
 
-
-## Leitura 8 (AA)
-
-{{< notice info "Atenação" >}}
-Essa leitura será discutida no [Encontro Virtual 5](https://cclhm0057.netlify.app/semanal/sem10/#encontro-virtual-5-as)
-{{< /notice >}}
-
-***
-
-**Data**: 19/07/2021 - 23/07/2021
-
-**CH**: 4 horas
-
-**Textos Obrigatórios**:
-
-1. [BLACKBURN, Robin. “A formação da escravidão colonial inglesa.” In: A construção do escravismo no Novo Mundo. Rio de Janeiro: Record, 2003.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_5/blackburn.pdf)
-2. [KLEIN, Herbert & VISION III, Ben. O açúcar e a escravidão no Caribe nos séculos XVII e XVIII. In: A Escravidao Africana na America Latina e Caribe. Brasilia: Editora Universidade de Brasilia, 2015]()
+**Data**: Segunda-feira, 04/10/2021, 15h-16h no *Discord*

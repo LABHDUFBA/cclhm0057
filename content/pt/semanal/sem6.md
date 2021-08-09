@@ -1,7 +1,7 @@
 ---
 title: "Semana 6"
-date: 2021-05-07
-description: "Período: 21/06/2021 - 25/06/2021"
+date: Sys.Date()
+description: "Período: 13 - 17/09"
 draft: false
 weight: 6
 ---
@@ -13,48 +13,30 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo 3 - Conquistas e Resistências (XVI-XVII)
-
 ## Período
 
-21/06/2021 - 25/06/2021
+13 - 17/09
 
-## Plantão de atendimento
+### Encontro Síncrono 5
 
-**Data**: Segunda-feira, 21/06/2021, 15h-16h no *Discord*
+*Tema*: Introdução à linguagem de programação Python
 
-## Encontro Virtual 3 (AS)
+*Tipo*: Live coding
 
-**Tema**: Debate de textos - Resistências, negociações e agência indígenas nos séculos XVI-XVII
-
-{{< notice info "Leitura" >}}
-Para essa aula é preciso ler a [Leitura 4](https://cclhm0057.netlify.app/semanal/sem4/#leitura-4-aa)
-{{< /notice >}}
-
-***
-
-**Data:**  21/06/2021
+**Data:** 16/09
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` - link enviado por e-mail
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
-| Objetivos           | Conteúdos         |
-|:--------------------|:------------------|
-| Caracterizar os variados aspectos das estratégias de resistência e agência histórica das sociedades americanas frente a dominação colonial nos séculos XVI e XVII. | Resistência e negociação no México e nos Andes. |
+### Atividade  assíncrona 2
 
-## Leitura 5 (AA)
+*Tipo*: Exercícios
 
-{{< notice info "Atenção" >}}
-Essa leitura vai ser abordada na [Vídeo-aula 3](https://cclhm0057.netlify.app/semanal/sem7/#v%C3%ADdeo-aula-3-aa)
-{{< /notice >}}
+**CH**: 2 horas
 
-***
+*Link*: [em breve]
 
-**Data:**  21/06/2021 - 25/06/2021
+### Plantão de atendimento
 
-**CH**: 4 horas
-
-**Textos obrigatórios**:
-1. [RAMINELLI, R. Nobreza indígena da Nova Espanha: alianças e conquistas. *Tempo*, v. 14, n. 27, p. 68–81, 2009.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_4/Raminelli.pdf)
-   - [Fichamento de apoio](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_4/2021-02-01-fichamento-raminelli.html)
+**Data**: Segunda-feira, 13/09/2021, 15h-16h no *Discord*

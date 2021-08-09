@@ -1,7 +1,7 @@
 ---
 title: "Semana 10"
-date: 2021-05-10
-description: "Período: 19/07/2021 - 23/07/2021"
+date: Sys.Date()
+description: "Período: 11 - 15/10"
 draft: false
 weight: 10
 ---
@@ -13,41 +13,28 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo 5 - Escravidão Africana nas Américas (séc. XVI-XVIII)
-
 ## Período
 
-19/07/2021 - 23/07/2021
+11 - 15/10
 
-## Plantão de atendimento
+### Encontro Síncrono 9
 
-**Data**: Segunda-feira, 19/07/2021, 15h-16h no *Discord*
+*Tema*: Manipulando dados II: Python e Pandas
 
-## Encontro Virtual 5 (AS)
+*Tipo*: Live coding 
 
-{{< notice info "Leitura" >}}
-Para essa aula é preciso ler a [Leitura 8](https://cclhm0057.netlify.app/semanal/sem9/#leitura-8-aa).
-{{< /notice >}}
-
-***
-
-**Tema**: As 13 Colônias do Norte e o Caribe nos séculos XVII e XVIII
-
-**Data:**  19/07/2021
+**Data:** 14/10
 
 **CH**: 2 horas
 
-**Plataforma**: `Google Meet` link enviado por e-mail.
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
-| Objetivos           | Conteúdos         |
-|:--------------------|:------------------|
-| Analisar a formação dos sistemas escravistas nas colônias inglesas e francesas no Caribe a na Aérica do Norte. | Sistema de plantation; Tráfico de Escravos; ocupação e colonização das treze coloniais do Norte. |
+### Atividade Assíncrona 5
 
-## Atividade Avaliativa 2 (AA)
+*Tipo*: Exercícios
 
-**Data:**  19/07/2021 - 06/08/2021
+**CH**: 2 horas
 
-**CH**: 4 horas
+### Plantão de atendimento
 
-**Plataforma**: `SIGAA` [Link](atividades/AT2.pdf)
-
+**Data**: Segunda-feira, 11/10/2021, 15h-16h no *Discord*

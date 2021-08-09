@@ -1,7 +1,7 @@
 ---
 title: "Semana 1"
-date: 2021-05-07
-description: "Período: 17/05/2021 - 21/05/2021"
+date: Sys.Date()
+description: "Período: 09/08/2021 - 13/08/2021"
 draft: false
 weight: 1
 ---
@@ -13,41 +13,34 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo 1 - América, Américas e o Ensino de História
+## Período: 09/08/2021 - 13/08/2021
 
-## Período
+CH = 6h
 
-17/05/2021 - 21/05/2021
+### Antes de começar o curso
 
-## Tarefa 01 (AA)
 
-**Tema**: Assistir vídeo de apresentação e preencher o Formulário
+Os tutoriais propostos devem ser assistidos previamente. Conhecimentos básicos de R e/ou Python e Git/GitHub são obrigatórios para acompanhamento do curso, conforme informado na ementa. 
 
-**Data:** 17/05/2021 – 23/05/2021
+#### *Tutorial 1*
 
-**CH**: 1 hora
+*Tema*: R básico (2h)
+>obs: assistir antes do curso iniciar
 
-**Plataforma**: `Google Formulários`
+- [SICSS Boot Camp](https://sicss.io/boot_camp/)
 
-***[LINK PARA O FORMULÁRIO](https://forms.gle/hkYqqmxtjz5tsouG8).***
+#### *Tutorial 2*
 
-**Plataforma**: `YouTube`
+*Tema*: Python básico (2h)
+>obs: assistir antes do curso iniciar
 
-***[LINK PARA O VÍDEO DE APRESENTAÇÃO](https://youtu.be/3S28KzHiK-g).***
+- [Introdução e instalação do Python, Programming Historian](https://programminghistorian.org/pt/licoes/introducao-instalacao-python)
+- [Curso de Python3 - Mundo 1: Fundamentos](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) **Vídeos 1 ao 11**
 
-## Leitura 1 (AA)
+#### *Tutorial 3*
 
-{{< notice info "Atenção" >}}
-Essa leitura será discutida no [Encontro virtual 1](https://cclhm0057.netlify.app/semanal/sem2/#encontro-virtual-1-as)
-{{< /notice >}}
+*Tema*: Git e GitHub (2h)
+>obs: assistir antes do curso iniciar
 
-***
-
-**Data:** 17/05/2021 – 21/05/2021
-
-**CH**: 2 horas
-
-**Textos Obrigatórios**:
-
-1. [SILVA, Kalina Vanderlei; SILVA, Maciel Henrique. “Índio”. In: Dicionário de conceitos históricos. São Paulo: Contexto, 2009](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_1/SILVA_SILVA.pdf)
-2. [FAZION, Heloisa Pires & MOLINA, Ana Heloisa. Abordagens sobre o ensino história da América no Brasil e análise do livro paradidático “A descoberta da América” de Carlos Guilherme Mota. In: Anais do XXIII Encontro Estadual de História, Anpuh-SP, 2016](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_1/FAZION_MOLINA.pdf)
+- [Git e GitHub para noobs](https://www.youtube.com/watch?v=ZSevDOHWsNM&t=8s)
+- [Git e GitHub no RStudio](https://beatrizmilz.github.io/slidesR/git_rstudio/#1)

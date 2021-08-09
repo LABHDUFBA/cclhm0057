@@ -1,7 +1,7 @@
 ---
 title: "Semana 3"
-date: 2021-05-07
-description: "Período: 31/05/2021 - 04/06/2021"
+date: Sys.Date()
+description: "Período: 23 - 27/081"
 draft: false
 weight: 3
 ---
@@ -13,51 +13,26 @@ Legenda:
 - AT = Atividade Avaliativa
 {{< /boxmd >}}
 
-## Módulo 2 -Sociedades autóctones americanas antes do séc. XVI
-
 ## Período
 
-31/05/2021 - 04/06/2021
+23 - 27/08
 
-## Leitura 3 (AA)
+### Encontro Síncrono 2
 
-{{< notice info "Atenção" >}}
-Essa leitura será discutida no [Encontro virtual 2](https://cclhm0057.netlify.app/semanal/sem5/#encontro-virtual-2-as)
-{{< /notice >}}
+*Tema*: Problemas Éticos da pesquisa em meios digitais
 
-***
+*Tipo*: Debate de texto
 
-**Data:** 31/05/2021 - 04/06/2021
+**Data:** 26/08
 
-**CH**: 4 horas
+**CH**: 2 horas
 
 **Textos Obrigatórios**:
 
-1. [RESTALL, Matthew. Guerreiros Invisíveis: o mito do conquistador branco.In: **Sete mitos da conquista espanhola**. Rio de Janeiro: José Olympio, 2006.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_3/restall.pdf)
-2. [SANTOS, Eduardo Natalino dos. As conquistas de México-Tenochtitlan e da Nova Espanha. Guerras e alianças entre castelhanos, mexicas e tlaxcaltecas. *História Unisinos*. Vol. 18 Nº 2 - maio/agosto de 2014.](https://ericbrasiln.github.io/cclhm0057_ihl/textos/mod_3/santos.pdf)
+1. []()
+
+**Plataforma**: `Google Meet` - link enviado por e-mail.
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 31/05/2021, 15h-16h no *Discord*
-
-## Vídeo-aula 1 (AA)
-
-{{< notice info "Leitura" >}}
-Para essa aula é preciso ler a [Leitura 2](https://cclhm0057.netlify.app/semanal/sem2/#leitura-2-aa).
-{{< /notice >}}
-
-***
-
-**Tema**: Sociedades autóctones americanas antes do século XVI.
-
-**Data:** 31/05/2021 - 04/06/2021
-
-**CH**: 1 horas
-
-**Plataforma**: `YouTube` [Link](https://youtu.be/0ntyn5BnZtY)
-
-| Objetivos           | Conteúdos         |
-|:--------------------|:------------------|
-| Caracterizar a ocupação e a história do Caribe antes do século XV  | Ocupação do território, etnias locais e historiografia |
-| Analisar a formação socio-histórica das sociedades mexicas e incas | o Estado Mexica e Inca às vésperas da conquista |
-|Entender o debate historiográfico acerca das sociedades mexicas e incas | Historiografia    |
+**Data**: Segunda-feira, 23/08/2021, 15h-16h no *Discord*
