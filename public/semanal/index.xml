@@ -20,12 +20,13 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem1/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período: 09/08/2021 - 13/08/2021 CH = 6h
+        <description>Período: 09/08/2021 - 13/08/2021 CH = 6h
 Antes de começar o curso Os tutoriais propostos devem ser assistidos previamente. Conhecimentos básicos de R e/ou Python e Git/GitHub são obrigatórios para acompanhamento do curso, conforme informado na ementa.
 Tutorial 1 Tema: R básico (2h)
  obs: assistir antes do curso iniciar
-  SICSS Boot Camp  Tutorial 2 Tema: Python básico (2h)</description>
+  SICSS Boot Camp  Tutorial 2 Tema: Python básico (2h)
+ obs: assistir antes do curso iniciar
+  Introdução e instalação do Python, Programming Historian Curso de Python3 - Mundo 1: Fundamentos Vídeos 1 ao 11  Tutorial 3 Tema: Git e GitHub (2h)</description>
       </item>
       
       <item>
@@ -34,15 +35,13 @@ Tutorial 1 Tema: R básico (2h)
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem2/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 16 - 20/08
+        <description>Período 16 - 20/08/2021
 Encontro Síncrono 1 Tema: Apresentação / Introdução à CSC
 Tipo: Debate de texto
 Data: 19/08
 CH: 2 horas
 Textos Obrigatórios:
-   Plataforma: Google Meet - link enviado por e-mail.
-Plantão de atendimento Data: Segunda-feira, 16/08/2021, 15h-16h no Discord</description>
+ Salganik, Matthew J. 2017. Introduction. In: Bit by Bit: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition. Salganik, Matthew J. 2017. Observing behavior. In: Bit by Bit: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.</description>
       </item>
       
       <item>
@@ -51,15 +50,14 @@ Plantão de atendimento Data: Segunda-feira, 16/08/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem3/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 23 - 27/08
+        <description>Período 23 - 27/08/2021
 Encontro Síncrono 2 Tema: Problemas Éticos da pesquisa em meios digitais
 Tipo: Debate de texto
 Data: 26/08
 CH: 2 horas
 Textos Obrigatórios:
-   Plataforma: Google Meet - link enviado por e-mail.
-Plantão de atendimento Data: Segunda-feira, 23/08/2021, 15h-16h no Discord</description>
+ Salganik, Matthew J. 2017. Ethics. In: Bit by Bit: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.  Plataforma: Google Meet - link enviado por e-mail.
+Plantão de atendimento Data: Quarta-feira, 25/08/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -68,15 +66,14 @@ Plantão de atendimento Data: Segunda-feira, 23/08/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem4/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 30/08 - 03/09
+        <description>Período 30/08 - 03/09/2021
 Encontro Síncrono 3 Tema: Métodos Digitais e Dados Digitais
 Tipo: Debate de texto
 Data: 02/09
 CH: 2 horas
 Textos Obrigatórios:
    Plataforma: Google Meet - link enviado por e-mail.
-Plantão de atendimento Data: Segunda-feira, 30/08/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 01/09/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -85,8 +82,7 @@ Plantão de atendimento Data: Segunda-feira, 30/08/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem5/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 06 - 10/09
+        <description>Período 06 - 10/09/2021
 Encontro Síncrono 4 Tema: Introdução à linguagem de programação R
 Tipo: Live coding
 Data: 09/09
@@ -95,7 +91,7 @@ Plataforma: Google Meet - link enviado por e-mail.
 Atividade assíncrona 1 Tipo: Exercícios
 CH: 2 horas
 Link: [em breve]
-Plantão de atendimento Data: Segunda-feira, 06/09/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 08/09/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -104,8 +100,7 @@ Plantão de atendimento Data: Segunda-feira, 06/09/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem6/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 13 - 17/09
+        <description>Período 13 - 17/09/2021
 Encontro Síncrono 5 Tema: Introdução à linguagem de programação Python
 Tipo: Live coding
 Data: 16/09
@@ -114,7 +109,7 @@ Plataforma: Google Meet - link enviado por e-mail.
 Atividade assíncrona 2 Tipo: Exercícios
 CH: 2 horas
 Link: [em breve]
-Plantão de atendimento Data: Segunda-feira, 13/09/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 15/09/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -123,14 +118,13 @@ Plantão de atendimento Data: Segunda-feira, 13/09/2021, 15h-16h no Discord</des
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem7/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 20 - 24/09
+        <description>Período 20 - 24/09/2021
 Encontro Síncrono 6 Tema: Web scraping I - HTML e CSS
 Tipo: Expositiva
 Data: 23/09
 CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
-Plantão de atendimento Data: Segunda-feira, 13/09/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 22/09/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -139,8 +133,7 @@ Plantão de atendimento Data: Segunda-feira, 13/09/2021, 15h-16h no Discord</des
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem8/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 27/09 - 01/10
+        <description>Período 27/09 - 01/10/2021
 Encontro Síncrono 7 Tema: Web scraping II: Python e BS4 / R e RVest
 Tipo: Live coding
 Data: 30/09
@@ -148,7 +141,7 @@ CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
 Atividade Assíncrona 3 Tipo: Exercícios
 CH: 2 horas
-Plantão de atendimento Data: Segunda-feira, 13/09/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 29/09/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -157,8 +150,7 @@ Plantão de atendimento Data: Segunda-feira, 13/09/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem9/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 04 - 08/10
+        <description>Período 04 - 08/10/2021
 Encontro Síncrono 8 Tema: Manipulando dados I: R e Tidyverse
 Tipo: Live coding
 Data: 07/10
@@ -166,7 +158,7 @@ CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
 Atividade Assíncrona 4 Tipo: Exercícios
 CH: 2 horas
-Plantão de atendimento Data: Segunda-feira, 04/10/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 03/10/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -175,16 +167,14 @@ Plantão de atendimento Data: Segunda-feira, 04/10/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem10/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 11 - 15/10
+        <description>Período 11 - 15/10/2021
 Encontro Síncrono 9 Tema: Manipulando dados II: Python e Pandas
 Tipo: Live coding
 Data: 14/10
 CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
 Atividade Assíncrona 5 Tipo: Exercícios
-CH: 2 horas
-Plantão de atendimento Data: Segunda-feira, 11/10/2021, 15h-16h no Discord</description>
+CH: 2 horas</description>
       </item>
       
       <item>
@@ -193,8 +183,7 @@ Plantão de atendimento Data: Segunda-feira, 11/10/2021, 15h-16h no Discord</des
         <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem11/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 18 - 22/10
+        <description>Período 18 - 22/10/2021
 Encontro Síncrono 10 Tema: Texto como dado I: R e Quanteda
 Tipo: Live coding
 Data: 21/10
@@ -202,7 +191,7 @@ CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
 Atividade Assíncrona 6 Tipo: Exercícios
 CH: 2 horas
-Plantão de atendimento Data: Segunda-feira, 18/10/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 17/10/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -211,8 +200,7 @@ Plantão de atendimento Data: Segunda-feira, 18/10/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem12/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 25 - 29/10
+        <description>Período 25 - 29/10/2021
 Encontro Síncrono 11 Tema: Texto como dado II: Python e spaCy
 Tipo: Live coding
 Data: 28/10
@@ -220,7 +208,7 @@ CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
 Atividade Assíncrona 7 Tipo: Exercícios
 CH: 2 horas
-Plantão de atendimento Data: Segunda-feira, 25/10/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 24/10/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -229,14 +217,13 @@ Plantão de atendimento Data: Segunda-feira, 25/10/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem13/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 01 - 05/11
+        <description>Período 01 - 05/11/2021
 Encontro Síncrono 12 Tema: Extração e Análise de dados I: Raspar e organizar
 Tipo: Oficina
 Data: 04/11
 CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
-Plantão de atendimento Data: Segunda-feira, 01/11/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 31/10/2021, 15h-16h no Discord</description>
       </item>
       
       <item>
@@ -245,14 +232,13 @@ Plantão de atendimento Data: Segunda-feira, 01/11/2021, 15h-16h no Discord</des
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://ppgcs012.netlify.app/semanal/sem14/</guid>
-        <description>Legenda:
- AA = Atividade Assíncrona AS = Atividade Síncrona AT = Atividade Avaliativa   Período 08 - 12/11
+        <description>Período 08 - 12/11/2021
 Encontro Síncrono 13 Tema: Extração e Análise de dados II: Análise e visualizar
 Tipo: Oficina
 Data: 11/11
 CH: 2 horas
 Plataforma: Google Meet - link enviado por e-mail.
-Plantão de atendimento Data: Segunda-feira, 01/11/2021, 15h-16h no Discord</description>
+Plantão de atendimento Data: Quarta-feira, 10/11/2021, 15h-16h no Discord</description>
       </item>
       
       <item>

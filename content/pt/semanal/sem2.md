@@ -1,21 +1,14 @@
 ---
 title: "Semana 2"
 date: Sys.Date()
-description: "Período: 16 - 20/08"
+description: "Período: 16 - 20/08/2021"
 draft: false
 weight: 2
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-16 - 20/08
+16 - 20/08/2021
 
 ### Encontro Síncrono 1
 
@@ -29,10 +22,11 @@ Tipo: Debate de texto
 
 **Textos Obrigatórios**:
 
-1. []()
+1. [Salganik, Matthew J. 2017. Introduction. In: **Bit by Bit**: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.](https://www.bitbybitbook.com/en/1st-ed/introduction/)
+2. [Salganik, Matthew J. 2017. Observing behavior. In: **Bit by Bit**: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.](https://www.bitbybitbook.com/en/1st-ed/observing-behavior/)
 
 **Plataforma**: `Google Meet` - link enviado por e-mail.
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 16/08/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 17/08/2021, 15h-16h no *Discord*

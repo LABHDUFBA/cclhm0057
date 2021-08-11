@@ -1,21 +1,14 @@
 ---
 title: "Semana 8"
 date: 2021-05-10
-description: "Período: 27/09 - 01/10"
+description: "Período: 27/09 - 01/10/2021"
 draft: false
 weight: 8
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-27/09 - 01/10
+27/09 - 01/10/2021
 
 ### Encontro Síncrono 7
 
@@ -37,4 +30,4 @@ Legenda:
 
 ### Plantão de atendimento
 
-**Data**: Segunda-feira, 13/09/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 29/09/2021, 15h-16h no *Discord*

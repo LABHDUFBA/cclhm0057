@@ -1,21 +1,14 @@
 ---
 title: "Semana 11"
 date: 2021-05-10
-description: "Período: 18 - 22/10"
+description: "Período: 18 - 22/10/2021"
 draft: false
 weight: 11
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-18 - 22/10
+18 - 22/10/2021
 
 ### Encontro Síncrono 10
 
@@ -37,4 +30,4 @@ Legenda:
 
 ### Plantão de atendimento
 
-**Data**: Segunda-feira, 18/10/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 17/10/2021, 15h-16h no *Discord*

@@ -1,17 +1,10 @@
 ---
 title: "Semana 1"
 date: Sys.Date()
-description: "Período: 09/08/2021 - 13/08/2021"
+description: "Período: 09 - 13/08/2021"
 draft: false
 weight: 1
 ---
-
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
 
 ## Período: 09/08/2021 - 13/08/2021
 

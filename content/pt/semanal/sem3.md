@@ -1,21 +1,14 @@
 ---
 title: "Semana 3"
 date: Sys.Date()
-description: "Período: 23 - 27/081"
+description: "Período: 23 - 27/08/2021"
 draft: false
 weight: 3
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-23 - 27/08
+23 - 27/08/2021
 
 ### Encontro Síncrono 2
 
@@ -29,10 +22,10 @@ Legenda:
 
 **Textos Obrigatórios**:
 
-1. []()
+1. [Salganik, Matthew J. 2017. Ethics. In: **Bit by Bit**: Social Research in the Digital Age. Princeton, NJ: Princeton University Press. Open review edition.](https://www.bitbybitbook.com/en/1st-ed/ethics/)
 
 **Plataforma**: `Google Meet` - link enviado por e-mail.
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 23/08/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 25/08/2021, 15h-16h no *Discord*

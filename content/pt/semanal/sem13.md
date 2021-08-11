@@ -1,21 +1,14 @@
 ---
 title: "Semana 13"
 date: Sys.Date()
-description: "Período: 01 - 05/11"
+description: "Período: 01 - 05/11/2021"
 draft: false
 weight: 13
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-01 - 05/11
+01 - 05/11/2021
 
 ### Encontro Síncrono 12
 
@@ -32,4 +25,4 @@ Legenda:
 
 ### Plantão de atendimento
 
-**Data**: Segunda-feira, 01/11/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 31/10/2021, 15h-16h no *Discord*

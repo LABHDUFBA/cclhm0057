@@ -1,21 +1,14 @@
 ---
 title: "Semana 7"
 date: 2021-05-10
-description: "Período: 20 - 24/09"
+description: "Período: 20 - 24/09/2021"
 draft: false
 weight: 7
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-20 - 24/09
+20 - 24/09/2021
 
 ### Encontro Síncrono 6
 
@@ -31,4 +24,4 @@ Legenda:
 
 ### Plantão de atendimento
 
-**Data**: Segunda-feira, 13/09/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 22/09/2021, 15h-16h no *Discord*

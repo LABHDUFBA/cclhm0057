@@ -1,21 +1,14 @@
 ---
 title: "Semana 4"
 date: Sys.Date
-description: "Período: 30/08 - 03/09"
+description: "Período: 30/08 - 03/09/2021"
 draft: false
 weight: 4
 ---
 
-{{< boxmd >}}
-Legenda: 
-- AA = Atividade Assíncrona
-- AS = Atividade Síncrona
-- AT = Atividade Avaliativa
-{{< /boxmd >}}
-
 ## Período
 
-30/08 - 03/09
+30/08 - 03/09/2021
 
 ### Encontro Síncrono 3
 
@@ -35,4 +28,4 @@ Legenda:
 
 ## Plantão de atendimento
 
-**Data**: Segunda-feira, 30/08/2021, 15h-16h no *Discord*
+**Data**: Quarta-feira, 01/09/2021, 15h-16h no *Discord*
