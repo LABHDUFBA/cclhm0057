@@ -31,10 +31,11 @@ Mesmo nesse momento tão difícil, vamos nos empenhar em ter um semestre tranqui
 
 Nesse site vcs encontram todo o material do curso, as informações sobre cornograma, tarefas, notícias.
 
-{{< img src="/images/discord.png" width="350px" position="center" >}}
+<a href="https://discord.gg/9HaXVCbv">
+{{< img src="/images/discord.png" width="350px" position="center" >}}<a/>
 
 
-Nosso espaço para conversas, ajuda, tirar dúvidas, compartilhar angústias e apreensões, trocar gifs e dar suporte emocional uns aos outros será em um servidor Discord. Você receberá um convite por email para participar. 
+Nosso espaço para conversas, ajuda, tirar dúvidas, compartilhar angústias e apreensões, trocar gifs e dar suporte emocional uns aos outros será em um servidor Discord. Você receberá um convite por email para participar ou tente clicar no convite na imagem acima (**expira em 7 dias**). 
 
 {{< notice warning "Atenção" >}}
 Não é obrigatório participar através do Discord.
