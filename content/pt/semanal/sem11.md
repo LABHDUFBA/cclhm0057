@@ -12,7 +12,7 @@ weight: 11
 
 ### Encontro Síncrono 10
 
-*Tema*: Texto como dado I: R e Quanteda
+*Tema*: Texto como dado I: R packages tm + tidytext ou Python e spaCy
 
 *Tipo*: Live coding 
 

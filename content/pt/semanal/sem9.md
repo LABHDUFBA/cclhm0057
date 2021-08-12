@@ -12,7 +12,7 @@ weight: 9
 
 ### Encontro Síncrono 8
 
-*Tema*: Manipulando dados I: R e Tidyverse
+*Tema*: Web scraping I - HTML e CSS
 
 *Tipo*: Live coding 
 

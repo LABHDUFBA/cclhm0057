@@ -12,7 +12,7 @@ weight: 10
 
 ### Encontro Síncrono 9
 
-*Tema*: Manipulando dados II: Python e Pandas
+*Tema*: Web scraping II: Python e BS4 / R e RVest
 
 *Tipo*: Live coding 
 

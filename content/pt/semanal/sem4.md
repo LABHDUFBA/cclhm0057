@@ -22,7 +22,10 @@ weight: 4
 
 **Textos Obrigatórios**:
 
-1. []()
+1. [RIEDER & RÖHLE. "Digital methods: Five challenges." Understanding digital humanities. In: BERRY, David-Understanding Digital HumanitiesPalgrave Macmillan UK, 2012. (Cápitulo 4, pp. 67-84.](http://libgen.rs/search.php?req=Understanding+digital+humanities&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
+
+2. [JUNGHERR, Andreas - Analyzing Political Communication with Digital Trace Data - The Role of Twitter Messages in Social Science Research (Capítulo 3, pp. 25-35](http://libgen.rs/search.php?req=Analyzing+Political+Communication+with+Digital+Trace+Data&open=0&res=25&view=simple&phrase=1&column=def)
+
 
 **Plataforma**: `Google Meet` - link enviado por e-mail.
 

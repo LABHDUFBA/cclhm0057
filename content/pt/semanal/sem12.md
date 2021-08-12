@@ -12,7 +12,7 @@ weight: 12
 
 ### Encontro Síncrono 11
 
-*Tema*: Texto como dado II: Python e spaCy
+*Tema*: Texto como dado II: R packages tm + tidytext ou Python e spaCy
 
 *Tipo*: Live coding 
 

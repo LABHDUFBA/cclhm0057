@@ -12,7 +12,7 @@ weight: 7
 
 ### Encontro Síncrono 6
 
-*Tema*: Web scraping I - HTML e CSS
+*Tema*: Manipulando dados: R/Tidyverse ou Python/Pandas
 
 *Tipo*: Expositiva
 

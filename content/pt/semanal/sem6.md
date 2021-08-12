@@ -12,7 +12,7 @@ weight: 6
 
 ### Encontro Síncrono 5
 
-*Tema*: Introdução à linguagem de programação Python
+*Tema*: Introdução à linguagem de programação R ou Python (fica à critério do estudante escolher)
 
 *Tipo*: Live coding
 

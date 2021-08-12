@@ -12,7 +12,7 @@ weight: 8
 
 ### Encontro Síncrono 7
 
-*Tema*: Web scraping II: Python e BS4 / R e RVest
+*Tema*: Manipulando dados: R/Tidyverse ou Python/Pandas
 
 *Tipo*: Live coding 
 
